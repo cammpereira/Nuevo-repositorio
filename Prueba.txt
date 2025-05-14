@@ -1,1 +1,2 @@
-Viendo correcto funcionamiento
+Viendo correcto funcionamiento.
+Lo hace, funciona bien.
